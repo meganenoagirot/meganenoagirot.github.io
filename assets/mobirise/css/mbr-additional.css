@@ -1824,6 +1824,75 @@ body {
 .cid-rWwfXRBKrH {
   background-image: url("../../../assets/images/ph-apaisant-1880x1576.png");
 }
+.cid-rX6ltaxeN1 {
+  padding-top: 45px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-rX6ltaxeN1 .mbr-section-title {
+  letter-spacing: 0.1em;
+  color: #232323;
+  margin-bottom: 2rem;
+}
+.cid-rX6ltaxeN1 .mbr-section-subtitle {
+  color: #232323;
+  margin-bottom: 2rem;
+  letter-spacing: 0.03em;
+}
+.cid-rX6ltaxeN1 .btn {
+  margin: 0px !important;
+}
+.cid-rX6ltaxeN1 .second-col {
+  display: flex;
+  -webkit-align-items: center;
+  align-items: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+}
+.cid-rX6ltaxeN1 .carousel-item {
+  -webkit-justify-content: center;
+  justify-content: center;
+}
+.cid-rX6ltaxeN1 .carousel-item .media-container-row {
+  -webkit-flex-grow: 1;
+  flex-grow: 1;
+}
+.cid-rX6ltaxeN1 .carousel-item .wrap-img {
+  text-align: center;
+}
+.cid-rX6ltaxeN1 .carousel-item .wrap-img img {
+  max-height: 250px;
+  width: auto;
+  max-width: 100%;
+}
+.cid-rX6ltaxeN1 .carousel {
+  display: flex;
+  -webkit-flex-direction: column-reverse;
+  flex-direction: column-reverse;
+  width: 100%;
+}
+.cid-rX6ltaxeN1 .carousel-indicators {
+  display: block;
+  position: relative;
+  margin-top: 2rem;
+  text-align: center;
+}
+.cid-rX6ltaxeN1 .carousel-indicators li {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background-color: #cccccc;
+  display: inline-block;
+  border: 4px solid #cccccc;
+}
+.cid-rX6ltaxeN1 .carousel-indicators li.active {
+  border-color: #a3a3a3;
+}
+@media (max-width: 768px) {
+  .cid-rX6ltaxeN1 .second-col {
+    padding-top: 2rem;
+  }
+}
 .cid-rWwgjoInql {
   padding-top: 45px;
   padding-bottom: 45px;
