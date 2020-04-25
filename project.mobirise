@@ -1552,7 +1552,7 @@
                 "itemPrice": "80 €",
                 "oldPriceValue": "$136",
                 "sale": "-50%",
-                "button": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amount=&item_name=Elle+avait+les+yeux+bleus&currency_code=EUR\" data-app-placeholder=\"Type Text\" class=\"btn display-7 btn-success-outline\">Acheter</a>",
+                "button": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amount=80&item_name=Elle+avait+les+yeux+bleus&currency_code=EUR\" data-app-placeholder=\"Type Text\" class=\"btn display-7 btn-success-outline\">Acheter</a>",
                 "image": "@PROJECT_PATH@/assets/images/20191103-115320-2000x2000-800x800.png",
                 "thumb": "@PROJECT_PATH@/assets/images/20191103-115320-2000x2000-800x800-800x800.png",
                 "customStyle5": "display-5",
