@@ -62,7 +62,10 @@
     "noImageResize": "",
     "uniqCompNum": 12,
     "versionPublish": "4.10.8",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "mcShopcart": {
+      "email": "giraud.meg@gmail.com"
+    }
   },
   "pages": {
     "index.html": {
@@ -1496,6 +1499,7 @@
           "_name": "extShop10",
           "_customHTML": "<section class=\"mbr-gallery\" group=\"Shops\" once=\"shops\" plugins=\"mobirise-shop,Gallery, mobirise-icons2\">\n\n    <mbr-parameters>\n        <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"3\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"3\" inline>\n        <input type=\"color\" title=\"Card Bg\" name=\"cardBg\" value=\"#ffffff\">\n        <input type=\"color\" title=\"On Sale Bg\" name=\"saleBg\" value=\"#29a7c6\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n\n        <input type=\"shop\" title=\"Shop\" name=\"shop\" buttons=\"secondary\">\n        <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-shop=\"shop\" class=\"mbr-shop\" card-buttons show-sidebar shop__showsidebar=\"\" show-buttons sorting></div>\n    </div>\n\n</section>",
           "_cid": "rX6tOJtkYo",
+          "_anchor": "extShop10-6",
           "_protectedParams": [
             "shop__showSidebar",
             "shop__showCardButtons",
@@ -1548,7 +1552,7 @@
                 "itemPrice": "80 €",
                 "oldPriceValue": "$136",
                 "sale": "-50%",
-                "button": "<a data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Text\" class=\"btn display-7 btn-success-outline\">Acheter</a>",
+                "button": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amount=&item_name=Elle+avait+les+yeux+bleus&currency_code=EUR\" data-app-placeholder=\"Type Text\" class=\"btn display-7 btn-success-outline\">Acheter</a>",
                 "image": "@PROJECT_PATH@/assets/images/20191103-115320-2000x2000-800x800.png",
                 "thumb": "@PROJECT_PATH@/assets/images/20191103-115320-2000x2000-800x800-800x800.png",
                 "customStyle5": "display-5",
@@ -1722,8 +1726,7 @@
                 "title": ""
               }
             ]
-          },
-          "_anchor": "extShop10-6"
+          }
         },
         {
           "alias": false,
